@@ -2,6 +2,11 @@
   "type": "FeatureCollection",
   "features": [
     {
+      "type": "Feature",
+      "properties": {
+        "Region": "BC",
+        "id": 1
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
