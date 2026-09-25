@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LM",
+      "properties": {
+        "id": "LM",
+        "name": "Lower Mainland / Southwest",
+        "code": "5910"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-124.0, 49.0],
+            [-124.0, 50.2],
+            [-121.0, 50.2],
+            [-121.0, 49.0],
+            [-123.0, 49.0],
+            [-124.0, 49.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "VI",
+      "properties": {
+        "id": "VI",
+        "name": "Vancouver Island / Coast",
+        "code": "5920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-128.5, 50.5],
+            [-127.0, 51.0],
+            [-123.3, 48.8],
+            [-123.5, 48.3],
+            [-128.5, 50.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "TO",
+      "properties": {
+        "id": "TO",
+        "name": "Thompson - Okanagan",
+        "code": "5930"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-121.0, 49.0],
+            [-121.0, 52.0],
+            [-118.0, 52.0],
+            [-118.0, 49.0],
+            [-121.0, 49.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "KO",
+      "properties": {
+        "id": "KO",
+        "name": "Kootenay",
+        "code": "5940"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-118.0, 49.0],
+            [-118.0, 52.0],
+            [-114.5, 52.0],
+            [-114.5, 49.0],
+            [-118.0, 49.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "CA",
+      "properties": {
+        "id": "CA",
+        "name": "Cariboo",
+        "code": "5950"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-125.0, 52.0],
+            [-125.0, 54.0],
+            [-119.0, 54.0],
+            [-119.0, 52.0],
+            [-125.0, 52.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NC",
+      "properties": {
+        "id": "NC",
+        "name": "North Coast & Nechako",
+        "code": "5960"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-133.0, 52.0],
+            [-133.0, 60.0],
+            [-124.0, 60.0],
+            [-124.0, 52.0],
+            [-133.0, 52.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "NE",
+      "properties": {
+        "id": "NE",
+        "name": "Northeast / Peace River",
+        "code": "5970"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-124.0, 54.0],
+            [-124.0, 60.0],
+            [-120.0, 60.0],
+            [-120.0, 54.0],
+            [-124.0, 54.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
